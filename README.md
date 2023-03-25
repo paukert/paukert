@@ -1,13 +1,13 @@
 ## Hi there 👋, I’m Lukáš
 
 ### About me:
+- 💻 I work as a web developer at [DAMI development](https://www.damidev.com/)
 - 🎓 I’m studying web engineering at [FIT CTU](https://fit.cvut.cz/en) in Prague
 - 🧑‍🤝‍🧑 I’m looking to collaborate on open source projects
 - 🏃‍♂️ I like doing sports
 
 ### Contact information:
 - [LinkedIn](https://www.linkedin.com/in/paukertlukas/)
-- [Facebook](https://www.facebook.com/paukertlukas)
 
 <!--
 **paukert/paukert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
